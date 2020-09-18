@@ -1,0 +1,30 @@
+I created created my own Twitter Clone using PHP, MySQL, JQuery.
+As you may already know Twitter is one of the most popular and best Social Networking Website.
+So, After months of hardwork i finally completed it.
+---------------------
+I will still keep adding new features to it
+-----------------------------
+I made this course with help of PHP, PDO, OOP, MySQL and jQuery.
+---------------------------
+This is what it contains -
+• Login & Sign-up Systems 
+
+• Users Profiles
+
+• Users Timeline
+
+• Users Tweets
+
+• Users Retweets
+
+• Users Comments
+
+• News Feeds
+
+• Hashtags & Mention Users
+
+• Top Trending Posts
+
+• Posts & Images Popups
+
+• Follow and Unfollow System
